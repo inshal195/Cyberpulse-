@@ -39,12 +39,9 @@ CyberPulse/
 ├── schemas.py
 │
 ├── scans/
-│   ├── __init__.py
 │   ├── scan_ip.py
 │   ├── scan_url.py
 │   └── risk_scan.py
 │
 ├── requirements.txt
 ├── README.md
-├── .env
-└── .gitignore
